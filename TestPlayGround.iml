@@ -137,5 +137,12 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.restdocs:spring-restdocs-mockmvc:1.0.2.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.restdocs:spring-restdocs-core:1.0.2.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-module-junit4:1.6.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-module-junit4-common:1.6.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-core:1.6.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-reflect:1.6.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-api-mockito:1.6.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-api-mockito-common:1.6.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-api-support:1.6.5" level="project" />
   </component>
 </module>
